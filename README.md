@@ -30,6 +30,7 @@ python dependencies with https://github.com/basnijholt/unidep
 - [ ] delta lake
 - [ ] cube.dev
 - [ ] secrets in sops with age
+- [ ] quality checks
 
 ### ML and imperative code
 
@@ -37,6 +38,7 @@ add
 
 - [ ] ray.io, dagaster-pipes
 - [ ] simple tabular AI sample
+- [ ] stateful quality checks (anomaly detection)
 
 ### AI
 
@@ -83,6 +85,7 @@ to be discussed if we want to include them
 - https://georgheiler.com/2022/04/02/making-bigdata-small-again-and-green/
 - https://georgheiler.com/2022/04/01/comparing-sql-based-streaming-approaches/
 - https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-to-dagster-on-kubernetes-environment-b0f83a54fce2
+- https://www.youtube.com/watch?v=6BPN7TnORIc
 
 ## contributors
 
