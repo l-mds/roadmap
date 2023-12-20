@@ -35,7 +35,7 @@ python dependencies with https://github.com/basnijholt/unidep
 
 add
 
-- [ ] ray.io
+- [ ] ray.io, dagaster-pipes
 - [ ] simple tabular AI sample
 
 ### AI
