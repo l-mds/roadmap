@@ -82,3 +82,13 @@ to be discussed if we want to include them
 - https://georgheiler.com/2022/04/02/making-bigdata-small-again-and-green/
 - https://georgheiler.com/2022/04/01/comparing-sql-based-streaming-approaches/
 - https://ibrahimhkoyuncu.medium.com/dagster-complete-guide-to-deploy-multiple-data-pipelines-to-dagster-on-kubernetes-environment-b0f83a54fce2
+
+## contributors
+
+In Alphabetic order:
+
+- Aleks
+    - https://www.linkedin.com/in/aleksandar-milicevic-8b788a154/
+- Georg
+    - https://www.linkedin.com/in/georg-heiler-019b3767/
+    - https://georgheiler.com/
