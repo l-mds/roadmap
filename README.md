@@ -44,6 +44,7 @@ add
 - [ ] LLM case https://github.com/imartinez/privateGPT
     - Qdrant
     - Postgres with pg_vector
+    - perhaps https://pathway.com/solutions/llm-app/
 - [ ] translation case https://ai.meta.com/resources/models-and-libraries/seamless-communication-models/
 - [ ] streaming translation case
 
