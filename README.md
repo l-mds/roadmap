@@ -52,14 +52,14 @@ add
 
 ## streaming
 
-- dagster
-- duckdb
-- dbt-duckdb
-- s3/minio
-- kafka
-- risingwave / starrocks
-- secrets in sops with age
-- some streaming dashboard solution
+- [ ] dagster
+- [ ] duckdb
+- [ ] dbt-duckdb
+- [ ] s3/minio
+- [ ] kafka / redpanda
+- [ ] risingwave / starrocks
+- [ ] secrets in sops with age
+- [ ] some streaming dashboard solution
 
 ## open points
 
